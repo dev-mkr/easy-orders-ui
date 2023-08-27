@@ -8,7 +8,7 @@ const HeroSection = () => {
       <div className="flex flex-col justify-center gap-y-2 text-center lg:text-start">
         <h1 className="relative px-4 text-[32px] font-bold leading-10 lg:px-0 lg:text-5xl lg:leading-[3.75rem] ">
           Grow your business <br className="hidden lg:block" /> on
-          <span className=" block text-green lg:inline">WhatsApp</span>
+          <span className=" block text-green lg:inline"> WhatsApp</span>
           <span
             className="absolute -left-[46px] top-0 h-14 bg-contain  bg-center bg-no-repeat lg:w-10"
             style={{ backgroundImage: `url("${threeLines}")` }}
